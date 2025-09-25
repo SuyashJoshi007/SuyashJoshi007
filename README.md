@@ -11,7 +11,11 @@
   <a href="https://github.com/SuyashJoshi007">
     <img src="https://img.shields.io/github/stars/SuyashJoshi007?label=Stars&style=flat-square&color=yellow" alt="GitHub Stars" />
   </a>
+  <p align="center">
+  <img src="https://komarev.com/ghpvc/?username=SuyashJoshi007&label=Visitors&color=blue&style=flat-square" alt="visitor badge"/>
 </p>
+</p>
+---
 
 ---
 
@@ -68,7 +72,4 @@
 ### 🔥 Fun Fact  
 > “First, solve the problem. Then, write the code.” – John Johnson  
 
----
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=SuyashJoshi007&label=Visitors&color=blue&style=flat-square" alt="visitor badge"/>
-</p>
+
