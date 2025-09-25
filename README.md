@@ -69,8 +69,6 @@
 > “First, solve the problem. Then, write the code.” – John Johnson  
 
 ---
-
-### 🌐 Visitor Count
 <p align="center">
-  <img src="https://profile-counter.glitch.me/SuyashJoshi007/count.svg" />
+  <img src="https://komarev.com/ghpvc/?username=SuyashJoshi007&label=Visitors&color=blue&style=flat-square" alt="visitor badge"/>
 </p>
