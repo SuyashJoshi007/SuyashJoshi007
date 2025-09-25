@@ -49,7 +49,7 @@
 
 ---
 
-## 📊 Stats (Dark Mode)
+## 📊 Stats 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=SuyashJoshi007&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" height="165px" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SuyashJoshi007&theme=tokyonight&layout=compact&hide_border=true" height="165px" />
