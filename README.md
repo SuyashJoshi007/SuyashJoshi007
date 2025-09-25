@@ -66,33 +66,6 @@
 
 ---
 
-## 🌟 Featured Projects
-<table>
-  <tr>
-    <td>
-      <b>NomadicNest</b><br/>
-      AI-powered travel planner • React, Firebase, Gemini Pro, Google Places, Unsplash
-      <br/><br/>
-      <a href="https://github.com/YOUR_GH/NomadicNest">
-        <img src="https://img.shields.io/badge/GitHub-Repo-181717?style=flat&logo=github" />
-      </a>
-      <a href="https://YOUR_LIVE_URL">
-        <img src="https://img.shields.io/badge/Live-Demo-00C853?style=flat" />
-      </a>
-    </td>
-    <td>
-      <b>Job Hunt Platform</b><br/>
-      MERN job portal • JWT, Redux, Cloudinary, Multer • Vercel + Render
-      <br/><br/>
-      <a href="https://github.com/YOUR_GH/Job-Hunt-Platform">
-        <img src="https://img.shields.io/badge/GitHub-Repo-181717?style=flat&logo=github" />
-      </a>
-      <a href="https://YOUR_LIVE_URL">
-        <img src="https://img.shields.io/badge/Live-Demo-00C853?style=flat" />
-      </a>
-    </td>
-  </tr>
-</table>
 
 > Want a shout-out here? Open an issue or drop me a message!
 
