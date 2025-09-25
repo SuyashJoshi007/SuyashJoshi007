@@ -98,22 +98,5 @@
 
 ---
 
-## 🤝 Connect with Me
-<p align="center">
-  <a href="https://linkedin.com/in/suyash-joshi-92sg8" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" height="40" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://leetcode.com/suyash01joshi" target="_blank">
-    <img src="https://skillicons.dev/icons?i=leetcode" height="40" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="mailto:suyash01joshi@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=gmail&logoColor=white" height="28" />
-  </a>
-</p>
-
----
-
 ## 🔥 Quote I Like
 > “First, solve the problem. Then, write the code.” – John Johnson
