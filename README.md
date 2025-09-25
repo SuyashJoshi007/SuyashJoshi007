@@ -22,9 +22,9 @@
 ---
 
 ## 🧭 About Me
-- 🔭 Currently building **full-stack MERN apps** and **AI-assisted tools**
-- 🧠 Exploring **system design**, **prompt engineering**, and **clean architecture**
-- 📫 Reach me: **suyash01joshi@gmail.com**
+- 🔭 Currently building **full-stack MERN apps** and **AI-assisted tools**  
+- 🧠 Exploring **system design**, **prompt engineering**, and **clean architecture**  
+- 📫 Reach me: **[LinkedIn](https://www.linkedin.com/in/suyash-joshi-92sg8/)** · **suyash01joshi@gmail.com**  
 - 💬 Ask me about **React, Node, MongoDB, JWT, Cloudinary, Firebase, ML basics**
 
 ---
@@ -59,13 +59,14 @@
   <img src="https://streak-stats.demolab.com?user=SuyashJoshi007&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
+---
+
 ## 📈 Contribution Graph
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=SuyashJoshi007&theme=tokyo-night&hide_border=true&area=true" alt="GitHub Activity Graph" />
 </p>
 
 ---
-
 
 > Want a shout-out here? Open an issue or drop me a message!
 
