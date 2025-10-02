@@ -24,7 +24,7 @@
 ## 🧭 About Me
 - 🔭 Currently building **full-stack MERN apps** and **AI-assisted tools**  
 - 🧠 Exploring **system design**, **prompt engineering**, and **clean architecture**  
-- 📫 Reach me: **[LinkedIn](https://www.linkedin.com/in/suyash-joshi-92sg8/)** · **suyash01joshi@gmail.com**  
+- 📫 Reach me: **[LinkedIn](https://www.linkedin.com/in/suyash-joshi-92sg8/)** · **suyash.joshisj01@gmail.com**  
 - 💬 Ask me about **React, Node, MongoDB, JWT, Cloudinary, Firebase, ML basics**
 
 ---
