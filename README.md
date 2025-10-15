@@ -71,8 +71,13 @@
 > Want a shout-out here? Open an issue or drop me a message!
 
 ---
+## 📊 All-in-One Metrics
+<p align="center">
+  <img src="github-metrics.svg" alt="Metrics" />
+</p>
+
+---
 
 ## 🔥 Quote I Like
 > “First, solve the problem. Then, write the code.” – John Johnson
 
-improve use the low latency apis 
